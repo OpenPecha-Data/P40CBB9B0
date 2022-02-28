@@ -1,0 +1,37 @@
+id: P40CBB9B0
+initial_creation_type: input
+source_metadata:
+  title: Katok Situ Chökyi Gyatso Series
+  language: bo
+  description: 'Texts by and about Chökyi Gyatso (chos kyi rgya mtsho), the third
+    Katok Situ (kaḥ thog si tu, 1880–1925), nephew and spiritual heir of Jamyang Khyentse
+    Wangpo:'
+  volume:
+    962bcea8ad3140f7aa32f5d9b6f4ce9a:
+      title: 'Opening the Door to a Pure Realm: An Aspiration Towards Abhirati'
+      parent: Aspiration Prayers
+    fdcd453a674c490ca46fe571842116a1:
+      title: Prayer of Aspiration Towards Sukhāvatī
+      parent: Aspiration Prayers
+    85de45a2ee854f7a8fdfe07222eb5b0a:
+      title: Prayer to the Gurus of the Chöd Lineage
+      parent: Lineage Prayers
+    1269111eb8a6463ebf7d5c89f7301247:
+      title: The Three Types of Pilgrim
+      parent: Pilgrimage
+    1efb8be2574a4a28ba501d6061d8b4ce:
+      title: A Short Prayer Based on the Life and Liberation of the All-Knowing, All-Seeing
+        Jamyang Khyentse Wangpo
+      parent: Prayers
+    f77399a12b3147fc9428da334e4db518:
+      title: A Song Recalling the Noble Guru’s Kindness
+      parent: Songs
+    7af0bec24a8d4f3897e81892944a4594:
+      title: 'Tremendous Piercing of the Heart: A Lament Recalling the Guru'
+      parent: Songs
+    6b15af1a367c42498722b63ef2c0f30d:
+      title: 'The Swift Fulfilment of Wishes: Prayer for the Swift Appearance of the
+        Supreme Tulku of the Mañjughoṣa Guru'
+      parent: Swift Rebirth Prayers
+created_at: '2022-03-01T00:16:12.217782'
+last_modified_at: '2022-03-01T00:16:12.217785'
